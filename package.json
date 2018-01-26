@@ -1,0 +1,12 @@
+{
+  "name": "static-website-boilerplate",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/mada-nemui/static-website-boilerplate.git",
+  "author": "mada-nemui",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "njk-html": "https://github.com/mada-nemui/njk-html.git"
+  }
+}
