@@ -6,6 +6,15 @@
   "author": "mada-nemui",
   "license": "MIT",
   "private": true,
+  "keywords": [
+    "website",
+    "boilerplate",
+    "nunjucks",
+    "html",
+    "scss",
+    "jquery",
+    "es6"
+  ],
   "dependencies": {
     "njk-html": "https://github.com/mada-nemui/njk-html.git"
   }
